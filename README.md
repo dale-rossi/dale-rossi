@@ -1,16 +1,49 @@
-## Hi there 👋
+## 👋 Hi, I’m Dale Rossi
 
-<!--
-**dale-rossi/dale-rossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enterprise AI Architect | Technical Enablement
 
-Here are some ideas to get you started:
+Building and sharing practical enterprise AI architectures, agentic systems, and modern data platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⸻
+
+🚀 Current Focus
+
+* Enterprise AI
+* Agentic AI
+* MCP
+* Enterprise Data
+* AI Evaluation
+* AI Architecture
+* Cloud AI
+* Developer Enablement
+
+⸻
+
+📘 Featured Projects
+
+(We’ll fill these in over time.)
+
+* Enterprise AI Reference Cards
+* Enterprise Context Framework
+* Financial Analyst Agent
+* Supply Chain Control Tower
+* NVIDIA AI Labs
+* Vertex AI Examples
+
+⸻
+
+🧠 Currently Learning
+
+* Anthropic Claude
+* MCP
+* NVIDIA NIM
+* Agentic AI
+* Enterprise AI Patterns
+
+⸻
+
+🌐 Connect
+
+* 🌍 mythinkingai.com
+* 💼 LinkedIn
+* 📧 dale@mythinkingai.com
